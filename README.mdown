@@ -22,7 +22,7 @@ Or have a look at one of these screen casts:
 
 Installing git-flow
 -------------------
-See the Wiki for up-to-date [Installation Instructions](https://github.com/nvie/gitflow/wiki/Installation).
+See the Wiki for up-to-date [Installation Instructions](https://github.com/sa2c/gitflow/wiki/Installation).
 
 
 Integration with your shell
@@ -36,7 +36,7 @@ git-flow subcommands and branch names.
 
 FAQ
 ---
-See the [FAQ](http://github.com/nvie/gitflow/wiki/FAQ) section of the project
+See the [FAQ](http://github.com/sa2c/gitflow/wiki/FAQ) section of the project
 Wiki.
 
 
@@ -44,7 +44,7 @@ Please help out
 ---------------
 This project is still under development. Feedback and suggestions are very
 welcome and I encourage you to use the [Issues
-list](http://github.com/nvie/gitflow/issues) on Github to provide that
+list](http://github.com/sa2c/gitflow/issues) on Github to provide that
 feedback.
 
 Feel free to fork this repo and to commit your additions. For a list of all
